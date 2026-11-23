@@ -14,7 +14,6 @@ An intelligent content-based music recommendation engine that maps songs into mu
 4.Automated Unit Testing: Comprehensive unittest suite validating similarity matrix symmetry, diagonal bounds, and recommendation logic.
 
 ### Project Structure
-text
 Music-Recommendation-System/
 ├── data/
 │   └── songs.csv              # Track catalog with Spotify acoustic features
@@ -29,8 +28,6 @@ Music-Recommendation-System/
 ├── requirements.txt           # Pinned dependencies
 ├── .gitignore                 # Enforces clean version control
 └── README.md                  # Project documentation
-
-
 ## Quickstart Guide
 
 1. Install Dependencies
